@@ -17,6 +17,5 @@ else{
     addFriend.innerHTML = "Add Friend"
     check = 0
 }
-    
-})
 
+})
